@@ -1,0 +1,20 @@
+{
+    " nom ": " lunaire ",
+    " version ": " 1.0.0 ",
+    " description ": " ",
+    " main ": " index.js ",
+    " author ": " Fabi ",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.5.2",
+        "express.js": "^1.0.0",
+        "github": "^14.0.0",
+        "path": "^0.12.7"
+    },
+    "engines": {
+        "node": "14.x"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
